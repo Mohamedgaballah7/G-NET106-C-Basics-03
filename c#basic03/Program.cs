@@ -82,6 +82,20 @@
             //} 
             #endregion
 
+            // ans.q8
+            #region break()
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //for (int i = 0; i < books.Length; i++)
+            //{
+            //    if (books[i] == "Refactoring")
+            //    {
+
+            //        break;
+            //    }
+            //    Console.WriteLine(books[i]);
+            //} 
+            #endregion
+
 
         }
     }
