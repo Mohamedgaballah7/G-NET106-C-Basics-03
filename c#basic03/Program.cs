@@ -2,6 +2,15 @@
 {
     internal class Program
     {
+        static void PrintFirstBook(string[] books)
+        {
+            if (books.Length == 0)
+            {
+                return;
+            }
+
+            Console.WriteLine(books[0]);
+        }
         static void Main(string[] args)
         {
             //ans.q1
@@ -109,6 +118,11 @@
             //} 
             #endregion
 
+            // ans.q10
+            #region PrintFirstBook()
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //PrintFirstBook(books); 
+            #endregion
 
         }
     }
