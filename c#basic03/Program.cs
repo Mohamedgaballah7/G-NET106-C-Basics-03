@@ -52,8 +52,18 @@
             //    Console.WriteLine($"{i + 1}. {books[i]}"); 
             #endregion
 
+            // ans.q5
+            #region whileLoop()
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //int i = 0;
+            //while (i < books.Length)
+            //{
+            //    Console.WriteLine(books[i]);
+            //    i++;
+            //} 
+            #endregion
 
-        }
+
         }
     }
 }
