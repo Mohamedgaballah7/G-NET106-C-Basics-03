@@ -38,6 +38,13 @@
             //} 
             #endregion
 
+            // ans.q3
+            #region ternary operator()
+            //int pages = 464;
+            //string sizeLabel= pages > 300 ? "long book" : "Small book";
+            //Console.WriteLine(sizeLabel); 
+            #endregion
+
 
         }
     }
