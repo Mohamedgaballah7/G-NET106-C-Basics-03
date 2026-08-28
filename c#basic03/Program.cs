@@ -52,8 +52,37 @@
             //    Console.WriteLine($"{i + 1}. {books[i]}"); 
             #endregion
 
+            // ans.q5
+            #region whileLoop()
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //int i = 0;
+            //while (i < books.Length)
+            //{
+            //    Console.WriteLine(books[i]);
+            //    i++;
+            //} 
+            #endregion
 
-        }
+
+            // ans.q6
+            #region doWhile()
+            //int i = 0;
+            //do { 
+            //    Console.WriteLine("Checking book...");
+            //    i++;
+            //} while (i < 3); 
+            #endregion
+
+            // ans.q7
+            #region foreach()
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //foreach (string book in books)
+            //{
+            //    Console.WriteLine(book);
+            //} 
+            #endregion
+
+
         }
     }
 }
